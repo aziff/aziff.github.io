@@ -1,4 +1,8 @@
 - title: Home
   url: index.html
+- title: C.V.
+  url: cv.html
 - title: Blog
   url: blog.html
+- title: Contact
+  url: contact.html
