@@ -16,7 +16,7 @@
     <div class="wrapper">
       <header>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
-        <img src="{{site.baseurl}}/assets/img/AnnaZiff.jpg" height="150" width-"150">
+        <a href="https://aziff.github.io"><img src="{{ site.baseurl }}/assets/img/AnnaZiff.jpg" height="150" width="150"></a>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
         {% for item in site.data.navigation %}
       <li><a href="{{ item.url }}">{{ item.title }}</a></li>
