@@ -3,12 +3,12 @@ layout: default
 ---
 <h2>{{ page.title }}</h2>
 <p>{{ page.date | date_to_string }} - {{ page.author }} 
-	<br>Tags: <span>[
-  {% for tag in page.tags %}
+	<br>Tags:<span>{% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
     <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-  {% endfor %}
-]</span></p>
+  {% endfor %}</span></p>
 
 
 {{ content }}
+
+{% include comments.html %}

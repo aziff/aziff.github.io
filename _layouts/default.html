@@ -16,39 +16,19 @@
     <div class="wrapper">
       <header>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
-        <a href="https://aziff.github.io"><img src="{{ site.baseurl }}/assets/img/AnnaZiff.jpg" height="150" width="150"></a>
+        <a href="/index.html"><img src="{{ site.baseurl }}/assets/img/AnnaZiff.jpg" height="150" width="150"></a>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
         {% for item in site.data.navigation %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-   		{% endfor %}
-
-        <!---ul>
-          {% if site.show_downloads %}
-            <li class="download"><a class="buttons" href="{{ site.github.zip_url }}">Download ZIP</a></li>
-            <li class="download"><a class="buttons" href="{{ site.github.tar_url }}">Download TAR</a></li>
-          {% endif %}
-        </ul--->
-
-        {% if site.github.is_project_page %}
-          <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-          <!---ul>
-            <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
-          </ul--->
-        {% endif %}
+      <li><a href="{{ item.url }}"><span> {{ item.title }} </span></a></li>
+   		{% endfor %}      
       </header>
 
       <section>
         {{ content }}
       </section>
 
-      <footer>
-        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a></small></p>
-      </footer>
+
     </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     {% if site.google_analytics %}
       <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

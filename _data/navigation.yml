@@ -1,8 +1,8 @@
 - title: Home
-  url: index.html
+  url: /
 - title: C.V.
-  url: cv.html
+  url: /cv.html
 - title: Blog
-  url: blog.html
+  url: /blog.html
 - title: Contact
-  url: contact.html
+  url: /contact.html
