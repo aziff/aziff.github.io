@@ -6,7 +6,7 @@ tags: interesting-paper methodology-discussion navel-gazing
 github_comments_issueid: "5"
 ---
 
-If you read my <a href="https://aziff.github.io/2020/06/22/helloworld.html">first blog post</a>, you already know that I strive to learn without subscribing to methodological ideology. How do the practical constraints and incentive structures of the academic track allow for such open learning? Akerlof (2020) discusses a pervasive ideology: (young) economists are pushed to produce research that is "hard" rather than "soft," at the expense of producing research that is important. Aggregating over the whole profession, the outsize weight on hardness over importance produces **"sins of omission,"** in which important questions are ignored. 
+If you read my <a href="https://aziff.github.io/2020/06/22/helloworld.html">first blog post</a>, you already know that I strive to learn without subscribing to methodological ideology. Akerlof (2020) discusses one pervasive ideology: (young) economists are pushed to produce research that is "hard" rather than "soft," at the expense of producing research that is important. Aggregating over the whole profession, the outsize weight on hardness over importance produces **"sins of omission,"** in which important questions are ignored. 
 
 This paper astutely breaks down some reasons for hardness bias, a prominant element in the culture of economics, and the consequences of omitting important research questions.
 
