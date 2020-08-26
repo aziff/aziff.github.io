@@ -57,7 +57,27 @@
 
 <p>A few months ago, I decided to research the alternatives available for Apple. Prioritizing clean interface, subfile organization, and helpful PDF viewing, Texpad emerged as an exceptional application. It costs $30, with the option for a 30-day free trial.</p>
 
-<p><img src="../../../../assets/img/texpaddemo.jpg" width="1000000" /></p>
+<div id="gallery">
+<img class="mySlides" src="../../../../assets/img/texpaddemo.jpg" />
+<img class="mySlides" src="../../../../assets/img/texpadsubfile.jpg" />
+<img class="mySlides" src="../../../../assets/img/texpaddict.jpg" />
+<img class="mySlides" src="../../../../assets/img/texpadautocomplete.jpg" />
+<img class="mySlides" src="../../../../assets/img/texpadtodo.jpg" />
+<button onclick="plusDivs(-1)">❮</button>
+<button onclick="plusDivs(1)">❯</button>
+</div>
+<script>
+var slideIndex = 1;showDivs(slideIndex);
+function plusDivs(n) {showDivs(slideIndex += n);}
+function showDivs(n) {
+var i;
+var x = document.getElementsByClassName("mySlides");
+if (n > x.length) {slideIndex = 1}
+if (n < 1) {slideIndex = x.length}
+for (i = 0; i < x.length; i++) {x[i].style.display = "none";}
+x[slideIndex-1].style.display = "block";
+}
+</script>
 
 <p>These are the Texpad features that have been most useful to me.</p>
 <ul>
