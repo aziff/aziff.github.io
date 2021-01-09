@@ -2,7 +2,7 @@
 layout: post
 author: Anna Ziff
 title: "Rent-Sharing and College Sports"
-tags: interesting-paper
+tags: interesting-paper policy-relevant
 github_comments_issueid: "9"
 ---
 
