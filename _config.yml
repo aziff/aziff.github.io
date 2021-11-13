@@ -2,7 +2,6 @@
 title: Anna L. Ziff
 email: anna.ziff@duke.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Anna L. Ziff, Ph.D. Candidate in the Economics Department of Duke University
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://aziff.github.io" # the base hostname & protocol for your site
 twitter_username: 
