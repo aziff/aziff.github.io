@@ -1,11 +1,14 @@
 # Site settings
 title: Anna L. Ziff
 email: anna.ziff@duke.edu
-description: > # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:" 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://aziff.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  aziff
+google_scholar_id: CHOnVB4AAAAJ
+orcid_id: 0000-0001-6403-8516
+stackoverflow_id: 17389222/vadulrashkov
 
 # Build settings
 markdown: kramdown

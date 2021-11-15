@@ -10,8 +10,8 @@
     }
 
     .page-link {
-        color: #ffffff;
-    background: #f66733;
+        color: $background-color;
+    background: $clemson-orange;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -74,7 +74,7 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 3px solid $grey-color-light;
     padding: $spacing-unit 0;
 }
 
@@ -184,7 +184,7 @@ h1 /* .post-title */ {
     letter-spacing: -1px;
     line-height: 1;
 		font-family: 'Titillium Web', sans-serif;
-		color: #522d80;
+		color: $clemson-purple;
 
     @include media-query($on-laptop) {
 /*        font-size: 36px; */
@@ -243,7 +243,7 @@ ul.listing li.listing-seperator {
 
 ul.listing li.listing-item time {
 
-	color: #333;
+	color: $clemson-purple;
 	font-weight: 500;
 	text-transform: uppercase;
 	padding-right: 10px;
