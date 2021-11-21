@@ -1,0 +1,33 @@
+I")<p>I created this website using Github pages and Jekyll. I document the steps I followed with some links that I found particularly helpful for my setup.</p>
+
+<p><em>Disclaimer:</em> This post is as much for my own reference as it is for sharing resources. It is not a detailed tutorial, but rather an overview of setting up a website and corresponding resources. It focuses on MacOS. As I learn more, I will add information!</p>
+
+<h2 id="general-steps">General Steps</h2>
+<ol>
+  <li>I found an example of a <a href="http://svmiller.com">website created in Jekyll</a> that I liked. Thankfully, this researcher made his own <a href="https://github.com/svmiller/steve-ngvb-jekyll-template">Jekyll template</a>. I also enjoyed perusing the lists of Jekyll themes at the below links.
+    <ul>
+      <li><a href="https://github.com/topics/jekyll-theme">GitHub #jekyll-theme</a></li>
+      <li><a href="https://jamstackthemes.dev/ssg/jekyll/">Jamstack Themes</a></li>
+    </ul>
+  </li>
+  <li>
+    <p>I forked the repository of the theme on GitHub, naming it <code class="language-plaintext highlighter-rouge">aziff.github.io</code>. I then cloned the repository to get a local copy. I suggest reading the <code class="language-plaintext highlighter-rouge">README.md</code> file associated with your chosen theme to follow any additional steps that may be required.</p>
+  </li>
+  <li>I set up Ruby and associated software (e.g., Homebrew) on my computer. Even though Apple computers come with a system Ruby, <a href="https://www.freecodecamp.org/news/do-not-use-mac-system-ruby-do-this-instead/">it is advised to set up a separate Ruby</a> to help manage libraries/versions.
+    <ul>
+      <li>I followed Steps 1-8 outlined in <a href="https://mac.install.guide/ruby/index.html">this very detailed guide</a>. It includes separate instructions for Intel or M1 chips and has some advice for troubleshooting common issues.</li>
+    </ul>
+  </li>
+  <li>
+    <p>I set up Jekyll following <a href="https://jekyllrb.com/docs/installation/macos/">this general advice for Jekyll on macOS</a>. Note that the <a href="https://mac.install.guide/ruby/index.html">guide</a> suggested in step 3 has directions to use <code class="language-plaintext highlighter-rouge">asdf</code> rather than <code class="language-plaintext highlighter-rouge">rbenv</code>. I also installed bundler.</p>
+  </li>
+  <li>
+    <p>Then I was able to create the Jekyll website following <a href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll">GitHub docs</a>. I started at “Creating your site” step 7.</p>
+  </li>
+  <li>I edited the files in my repository to customize my website. To test changes, I use the first line and navigate to <code class="language-plaintext highlighter-rouge">http://localhost:4000</code>. Once I am ready to publish changes, I use the second line.</li>
+</ol>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">bundle <span class="nb">exec </span>jekyll serve
+bundle <span class="nb">exec </span>jekyll build</code></pre></figure>
+
+:ET
