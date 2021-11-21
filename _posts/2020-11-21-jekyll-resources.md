@@ -2,7 +2,7 @@
 layout: post
 title:  "Resources to Create a Website with GitHub and Jekyll"
 date:   2021-11-21 
-categories: 
+categories: jekyll
 ---
 
 I created this website using Github pages and Jekyll. I document the steps I followed with some links that I found particularly helpful for my setup. 
