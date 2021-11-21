@@ -4,7 +4,6 @@ title: Blog
 permalink: /blog/
 ---
 
-Coming soon.
 
 <ul class="listing">
 {% for post in site.posts %}
