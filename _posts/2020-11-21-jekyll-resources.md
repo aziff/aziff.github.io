@@ -2,6 +2,7 @@
 layout: post
 title:  "Resources to Create a Website with GitHub and Jekyll"
 date:   2021-11-21 
+author: Anna Ziff
 categories: jekyll
 ---
 
