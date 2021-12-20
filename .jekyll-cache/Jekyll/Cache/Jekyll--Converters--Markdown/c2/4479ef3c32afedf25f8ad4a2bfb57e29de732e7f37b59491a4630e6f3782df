@@ -1,8 +1,10 @@
-I")<p>I created this website using Github pages and Jekyll. I document the steps I followed with some links that I found particularly helpful for my setup.</p>
+I"F<p><em>Updated: December 20, 2021</em></p>
+
+<p>I created this website using Github pages and Jekyll. I document the steps I followed with some links that I found particularly helpful for my setup.</p>
 
 <p><em>Disclaimer:</em> This post is as much for my own reference as it is for sharing resources. It is not a detailed tutorial, but rather an overview of setting up a website and corresponding resources. It focuses on MacOS. As I learn more, I will add information!</p>
 
-<h2 id="general-steps">General Steps</h2>
+<h2 id="setting-up-a-website">Setting Up a Website</h2>
 <ol>
   <li>I found an example of a <a href="http://svmiller.com">website created in Jekyll</a> that I liked. Thankfully, this researcher made his own <a href="https://github.com/svmiller/steve-ngvb-jekyll-template">Jekyll template</a>. I also enjoyed perusing the lists of Jekyll themes at the below links.
     <ul>
@@ -21,13 +23,20 @@
   <li>
     <p>I set up Jekyll following <a href="https://jekyllrb.com/docs/installation/macos/">this general advice for Jekyll on macOS</a>. Note that the <a href="https://mac.install.guide/ruby/index.html">guide</a> suggested in step 3 has directions to use <code class="language-plaintext highlighter-rouge">asdf</code> rather than <code class="language-plaintext highlighter-rouge">rbenv</code>. I also installed bundler.</p>
   </li>
-  <li>
-    <p>Then I was able to create the Jekyll website following <a href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll">GitHub docs</a>. I started at “Creating your site” step 7.</p>
-  </li>
-  <li>I edited the files in my repository to customize my website. To test changes, I use the first line and navigate to <code class="language-plaintext highlighter-rouge">http://localhost:4000</code>. Once I am ready to publish changes, I use the second line.</li>
+  <li>I followed all the steps in the section “Add the github pages gem” <a href="https://idratherbewriting.com/documentation-theme-jekyll/mydoc_publishing_github_pages.html">in this guide</a>.</li>
 </ol>
+
+<h2 id="updating-a-website">Updating a Website</h2>
+
+<p>I edit the files in my repository to customize and update my website. To test changes, I use the first line and navigate to <code class="language-plaintext highlighter-rouge">http://localhost:4000</code>. Once I am ready to publish changes, I use the second line.</p>
 
 <figure class="highlight"><pre><code class="language-bash" data-lang="bash">bundle <span class="nb">exec </span>jekyll serve
 bundle <span class="nb">exec </span>jekyll build</code></pre></figure>
+
+<h2 id="other-resources">Other Resources</h2>
+
+<ul>
+  <li><a href="https://www.janknappe.com/blog/Integrating-Academicons-with-Fontawesome-in-the-Millennial-Jekyll-template/">Using Academicons and Font Awesome in Jekyll</a></li>
+</ul>
 
 :ET
