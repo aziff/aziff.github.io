@@ -22,16 +22,8 @@ I have summarized the pointers that resonated with me the most.
 ### Advice on Writing and Communicating
 
 1. "The write up is the research." The write up and all research communication should be taken seriously.
-2. Weisbach helpfully breaks down the goals of the research write up:
-    - Convince the reader the paper is new and interesting
-    - Convince the reader the analysis is correct and addresses the problem
-    - Credit other work
-    - Detail the research process
-    - Draw appropriate conclusions
-
-3. Think about the structure of the paper before implementing the usual format. Making section titles more descriptive can help guide the reader.
-4. If a standalone literature review section is necessary, structure it based on ideas rather than on papers. Also, be profesional when deciding which papers to cite and how to discuss the work.
-5. Writing a useful data section keeps readers engaged and can be valuable to others, even if they are studying completely different questions.
+2. Think about the structure of the paper before implementing the usual format. Making section titles more descriptive can help guide the reader.
+3. If a standalone literature review section is necessary, structure it based on ideas rather than on papers. Also, be profesional when deciding which papers to cite and how to discuss the work.
 
 ### General Professional Advice
 
