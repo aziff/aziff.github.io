@@ -4,9 +4,17 @@ title: Research
 permalink: /research/
 ---
 
-Currently, my research interests include studying place-based economic development policies, such as infrastructure investment, and related methodological issues.
+**Works in Progress**
 
-## Publications
+Levees: Infrastructure and Insurance as Adaptation to Flood Risk
+* In Progress 
+* with [Mythili Vinnakota](https://mvinnakota.github.io)
+
+Association between the Volatility of Income and Life Expectancy in the U.S.
+* Under Review 
+* with V. Joseph Hotz and Emily E. Wiemers
+
+**Pre-Doctoral Publications**
 
 Gender Differences in the Benefits of an Influential Early Childhood Program 
 * European Economic Review (2019)
