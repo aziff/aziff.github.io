@@ -4,6 +4,11 @@
 @charset "utf-8";
 
 
+details summary::-webkit-details-marker {
+  color:#1D6363;
+  background:#F3F2F1;
+}
+
 
 // Our variables
 $base-font-family: 'Open Sans', Helvetica, Arial, sans-serif;

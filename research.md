@@ -6,23 +6,40 @@ permalink: /research/
 
 ## Working Papers
 
-<details>
-<summary><b>Association between the Volatility of Income and Life Expectancy in the U.S.</b></summary>
-Numerous studies have documented large differences in the income- and education-mortality gradients across geographic areas and have emphasized the role of health behaviors, policy, and overall affluence, but less is known about the role of the volatility of household income in affecting life expectancy, especially among households in the bottom part of the income distribution. In this paper, we examine the relationship between the volatility of income and the life expectancy of adults in the U.S., focusing on the first two decades of the twenty-first century. We use a commercial source of data on all households in the U.S., InfoUSA, to construct longitudinal data on households residing in mid-sized commuting zones of the U.S. and measure household income volatility across the income distribution and across coun- ties. We link data on volatility with estimates of life expectancy at the county level and by income quartiles to analyze the volatility - life expectancy relationship while including controls for demographics, economic conditions, and policy generosity. We find that house- hold income volatility is negatively correlated with life expectancy only at the bottom of the household income distribution. This relationship is driven by negative associations between life expectancy and household income volatility for non-Hispanic whites. Though we cannot extrapolate our conclusions based on place-based differences to individuals, we link our find- ings with a broader literature showing a relationship between volatile earnings and health as well as the literature on place-based differences in mortality.
-</details>
-<p></p>
-* Under Review
-* with V. Joseph Hotz and Emily E. Wiemers
+<b>Locally Targeted Economic Development: Indirect Consequences and Aggregate Effects</b>
+* Draft Coming Soon
+* Job Market Paper
 
 <b>Levees: Infrastructure and Insurance as Adaptation to Flood Risk</b>
 * Draft Coming Soon
 * with Mythili Vinnakota
 
+<b>Association between the Volatility of Income and Life Expectancy in the U.S.</b>
+<details>
+<summary>Abstract</summary>
+Numerous studies have documented large differences in the income- and education-mortality gradients across geographic areas and have emphasized the role of health behaviors, policy, and overall affluence, but less is known about the role of the volatility of household income in affecting life expectancy, especially among households in the bottom part of the income distribution. In this paper, we examine the relationship between the volatility of income and the life expectancy of adults in the U.S., focusing on the first two decades of the twenty-first century. We use a commercial source of data on all households in the U.S., InfoUSA, to construct longitudinal data on households residing in mid-sized commuting zones of the U.S. and measure household income volatility across the income distribution and across coun- ties. We link data on volatility with estimates of life expectancy at the county level and by income quartiles to analyze the volatility - life expectancy relationship while including controls for demographics, economic conditions, and policy generosity. We find that house- hold income volatility is negatively correlated with life expectancy only at the bottom of the household income distribution. This relationship is driven by negative associations between life expectancy and household income volatility for non-Hispanic whites. Though we cannot extrapolate our conclusions based on place-based differences to individuals, we link our find- ings with a broader literature showing a relationship between volatile earnings and health as well as the literature on place-based differences in mortality.
+</details>
+<p></p>
+* Revise and Resubmit, <i>Journal of the Labor Economics</i>
+* with V. Joseph Hotz and Emily E. Wiemers
+
+## Works in Progress
+
+<b>Rental Choice Sets in Low- and High-Opportunity Neighborhoods for Housing Choice Voucher Program Participants</b>
+* In Progress
+* with JoonYup Park
+
+<b>Unifying Panel Data Models for Unobserved Heterogeneity</b>
+* In Progress
+* with Joshua Shea
+
+
+
 ## Publications
 
-
+<b>Gender Differences in the Benefits of an Influential Early Childhood Program</b>
 <details>
-<summary><b>Gender Differences in the Benefits of an Influential Early Childhood Program</b></summary>
+<summary>Abstract</summary>
 This paper studies the life-cycle impacts of a widely emulated high-quality, intensive early childhood program with long-term follow up. The program starts early in life (at 8 weeks of age) and is evaluated by an RCT. There are multiple treatment effects which we summarize through interpretable aggregates. Girls have a greater number of statistically significant treatment effects than boys and effect sizes for them are generally bigger. The source of this difference is worse home environments for girls with greater scope for improvement by the program. Fathers of sons support their families more than fathers of daughters.
 </details>
 <p></p>
@@ -30,8 +47,9 @@ This paper studies the life-cycle impacts of a widely emulated high-quality, int
 * with Jorge Luis García and James J. Heckman
 * [Access paper](https://www.sciencedirect.com/science/article/abs/pii/S0014292118300953)
 
+<b>Evaluation of the Reggio Approach to Early Education</b>
 <details>
-<summary><b>Evaluation of the Reggio Approach to Early Education</b></summary>
+<summary>Abstract</summary>
 We evaluate the Reggio Approach using non-experimental data on individuals from the cities of Reggio Emilia, Parma and Padova belonging to one of five age cohorts: ages 50, 40, 30, 18, and 6 as of 2012. The treated were exposed to municipally offered infant-toddler (ages 0–3) and preschool (ages 3–6) programs in Reggio Emilia. The control group either did not receive formal childcare or were exposed to programs offered by municipal systems (outside of Reggio Emilia), or by state or religious systems (in all three cities). We exploit the city-cohort structure of the data to estimate treatment effects using three strategies: difference-in-differences, matching, and matched-difference-in-differences. Most positive and significant effects are generated from comparisons of the treated with individuals who did not receive formal childcare. Relative to not receiving formal care, the Reggio Approach significantly boosts outcomes related to employment, socio-emotional skills, high school graduation, participation in elections, and obesity. Comparisons with individuals exposed to alternative forms of childcare do not yield strong patterns of positive and significant effects. This suggests that differences between the Reggio Approach and other alternatives are not sufficiently large to result in significant differences in outcomes. This interpretation is supported by a survey we conduct, which documents increasing similarities in the administrative and pedagogical practices of childcare systems in the three cities over time.
 </details>
 <p></p>
@@ -39,8 +57,9 @@ We evaluate the Reggio Approach using non-experimental data on individuals from 
 * with Pietro Biroli, Daniela Del Boca, James J. Heckman, Lynne Pettler Heckman, Yu Kyung koh, Sylvi Kuperman, Sidharth Moktan, Chiara D. Pronzato
 * [Access paper](https://www.sciencedirect.com/science/article/pii/S1090944317301643)
 
+<b>Early Childhood Education and Crime</b>
 <details>
-<summary><b>Early Childhood Education and Crime</b></summary>
+<summary>Abstract</summary>
 This article presents new evidence on the crime-reducing impacts of a high-quality, intensive early childhood program with long-term follow-up, evaluated by a randomized controlled trial. Proportionately, more women than men decrease their criminal activity after participating in the program. This gender difference arises because of the worse home environments for girls, with corresponding greater scope for improvement by the program. For both genders, treatment effects are larger for the least-advantaged children, as measured by their mother's education at baseline. The dollar value of the social cost of criminal activity averted is higher for men because they commit more costly violent crimes.
 </details>
 <p></p>
@@ -49,12 +68,3 @@ This article presents new evidence on the crime-reducing impacts of a high-quali
 * [Access paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/imhj.21759)
 
 
-## Works in Progress
-
-<b>Unifying Panel Data Models for Unobserved Heterogeneity</b>
-* In Progress
-* with Joshua Shea
-
-<b>Rental Choice Sets in Low- and High-Opportunity Neighborhoods for Housing Choice Voucher Program Participants</b>
-* In Progress
-* with JoonYup Park
