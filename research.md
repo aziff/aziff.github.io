@@ -20,7 +20,7 @@ permalink: /research/
 Numerous studies have documented large differences in the income- and education-mortality gradients across geographic areas and have emphasized the role of health behaviors, policy, and overall affluence, but less is known about the role of the volatility of household income in affecting life expectancy, especially among households in the bottom part of the income distribution. In this paper, we examine the relationship between the volatility of income and the life expectancy of adults in the U.S., focusing on the first two decades of the twenty-first century. We use a commercial source of data on all households in the U.S., InfoUSA, to construct longitudinal data on households residing in mid-sized commuting zones of the U.S. and measure household income volatility across the income distribution and across coun- ties. We link data on volatility with estimates of life expectancy at the county level and by income quartiles to analyze the volatility - life expectancy relationship while including controls for demographics, economic conditions, and policy generosity. We find that house- hold income volatility is negatively correlated with life expectancy only at the bottom of the household income distribution. This relationship is driven by negative associations between life expectancy and household income volatility for non-Hispanic whites. Though we cannot extrapolate our conclusions based on place-based differences to individuals, we link our find- ings with a broader literature showing a relationship between volatile earnings and health as well as the literature on place-based differences in mortality.
 </details>
 <p></p>
-* Revise and Resubmit, <i>Journal of the Labor Economics</i>
+* Revise and Resubmit, <i>Journal of Labor Economics</i>
 * with V. Joseph Hotz and Emily E. Wiemers
 
 ## Works in Progress
@@ -65,7 +65,7 @@ We evaluate the Reggio Approach using non-experimental data on individuals from 
 </details>
 <p></p>
 * Research in Economics (2018)
-* with Pietro Biroli, Daniela Del Boca, James J. Heckman, Lynne Pettler Heckman, Yu Kyung koh, Sylvi Kuperman, Sidharth Moktan, Chiara D. Pronzato
+* with Pietro Biroli, Daniela Del Boca, James J. Heckman, Lynne Pettler Heckman, Yu Kyung Koh, Sylvi Kuperman, Sidharth Moktan, Chiara D. Pronzato
 * [Access paper](https://www.sciencedirect.com/science/article/pii/S1090944317301643)
 
 
