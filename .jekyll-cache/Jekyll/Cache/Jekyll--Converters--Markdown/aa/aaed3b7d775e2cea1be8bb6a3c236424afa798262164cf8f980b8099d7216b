@@ -1,10 +1,13 @@
-I"C<h2 id="working-papers">Working Papers</h2>
+I"l <h2 id="job-market-paper">Job Market Paper</h2>
 
-<p><b>Locally Targeted Economic Development: Direct Impact, Spillovers through Common Markets, and Aggregate Effects</b></p>
-<ul>
-  <li>Draft Coming Soon</li>
-  <li>Job Market Paper</li>
-</ul>
+<p><b>Beyond the Local Impacts of Place-Based Policies: Spillovers through Latent Housing Markets</b></p>
+<details>
+<summary>Abstract</summary>
+It is common to study the direct effectiveness of place-based policies, which target geographic areas often to foster economic development. Ignoring indirect impacts due to responses of households and firms that propagate within similar markets (e.g., housing markets) may result in incorrect conclusions of the overall effectiveness. I propose an approach to estimate indirect effects on non-targeted areas that are in the same markets as the targeted areas. To determine latent market structure, I apply a network theory method to data on household movement. I illustrate the approach and discuss the economic framework using a widespread, place-based policy, Tax Increment Financing (TIF). I apply my approach to data on household moves to characterize the latent housing markets. With the data-driven characterization, I estimate the ``market'' spillover effects to non-targeted areas within the same housing market. TIF is locally effective at increasing property values within the targeted area. However, the market spillover effects estimated using my approach indicate a negative impact on non-targeted areas within the same housing markets. This implies that the policy relocates investment that otherwise would have occurred elsewhere. I analyze outcomes related to household and firm characteristics and find support for the relocation mechanism. I combine the direct and spillover effects to calculate a back-of-the-envelope estimate of an overall effect that is close to zero. I discuss the implications of these results for place-based redistribution.
+</details>
+<p></p>
+
+<h2 id="working-papers">Working Papers</h2>
 
 <p><b>Levees: Infrastructure and Insurance as Adaptation to Flood Risk</b></p>
 <ul>
@@ -15,11 +18,11 @@
 <p><b>Association between the Volatility of Income and Life Expectancy in the U.S.</b></p>
 <details>
 <summary>Abstract</summary>
-Numerous studies have documented large differences in the income- and education-mortality gradients across geographic areas and have emphasized the role of health behaviors, policy, and overall affluence, but less is known about the role of the volatility of household income in affecting life expectancy, especially among households in the bottom part of the income distribution. In this paper, we examine the relationship between the volatility of income and the life expectancy of adults in the U.S., focusing on the first two decades of the twenty-first century. We use a commercial source of data on all households in the U.S., InfoUSA, to construct longitudinal data on households residing in mid-sized commuting zones of the U.S. and measure household income volatility across the income distribution and across coun- ties. We link data on volatility with estimates of life expectancy at the county level and by income quartiles to analyze the volatility - life expectancy relationship while including controls for demographics, economic conditions, and policy generosity. We find that house- hold income volatility is negatively correlated with life expectancy only at the bottom of the household income distribution. This relationship is driven by negative associations between life expectancy and household income volatility for non-Hispanic whites. Though we cannot extrapolate our conclusions based on place-based differences to individuals, we link our find- ings with a broader literature showing a relationship between volatile earnings and health as well as the literature on place-based differences in mortality.
+Numerous studies have documented large differences in the income- and education-mortality gradients across geographic areas and have emphasized the role of health behaviors, policy, and overall affluence, but less is known about the role of the volatility of household income in affecting life expectancy, especially among households in the bottom part of the income distribution. In this paper, we examine the relationship between the volatility of income and the life expectancy of adults in the U.S., focusing on the first two decades of the twenty-first century. We use a commercial source of data on all households in the U.S., InfoUSA, to construct longitudinal data on households residing in mid-sized commuting zones of the U.S. and measure household income volatility across the income distribution and across counties. We link data on volatility with estimates of life expectancy at the county level and by income quartiles to analyze the volatility - life expectancy relationship while including controls for demographics, economic conditions, and policy generosity. We find that house- hold income volatility is negatively correlated with life expectancy only at the bottom of the household income distribution. This relationship is driven by negative associations between life expectancy and household income volatility for non-Hispanic whites. Though we cannot extrapolate our conclusions based on place-based differences to individuals, we link our findings with a broader literature showing a relationship between volatile earnings and health as well as the literature on place-based differences in mortality.
 </details>
 <p></p>
 <ul>
-  <li>Revise and Resubmit, <i>Journal of the Labor Economics</i></li>
+  <li>Revise and Resubmit, <i>Journal of Labor Economics</i></li>
   <li>with V. Joseph Hotz and Emily E. Wiemers</li>
 </ul>
 
@@ -71,7 +74,7 @@ We evaluate the Reggio Approach using non-experimental data on individuals from 
 <p></p>
 <ul>
   <li>Research in Economics (2018)</li>
-  <li>with Pietro Biroli, Daniela Del Boca, James J. Heckman, Lynne Pettler Heckman, Yu Kyung koh, Sylvi Kuperman, Sidharth Moktan, Chiara D. Pronzato</li>
+  <li>with Pietro Biroli, Daniela Del Boca, James J. Heckman, Lynne Pettler Heckman, Yu Kyung Koh, Sylvi Kuperman, Sidharth Moktan, Chiara D. Pronzato</li>
   <li><a href="https://www.sciencedirect.com/science/article/pii/S1090944317301643">Access paper</a></li>
 </ul>
 

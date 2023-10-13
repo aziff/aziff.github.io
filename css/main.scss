@@ -12,24 +12,23 @@ details summary::-webkit-details-marker {
 
 // Our variables
 $base-font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-$base-font-size:   .95em;
+$base-font-size:   1.1em;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #262626;
-$background-color: #F3F2F1;
-$brand-color:      #1D6363;
+$text-color:       #000000;
+$background-color: #FFFFFF;
+$brand-color:      #003366;
 // $gameday-sky: #A1B70D;
-$clemson-purple:      #988675;
-$clemson-orange:      #012169;
+$clemson-purple:      #19334D;
+$clemson-orange:      #336699;
 
 
 $grey-color:       #B5B5B5;
 $grey-color-light: lighten($grey-color, 25%);
 $grey-color-dark:  darken($grey-color, 25%);
-
 
 // Width of the content area
 $content-width:    950px;
