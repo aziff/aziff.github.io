@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-## Job Market Paper
+### Job Market Paper
 
 <b>Beyond the Local Impacts of Place-Based Policies: Spillovers through Latent Housing Markets</b>
 <details>
@@ -13,7 +13,7 @@ It is common to study the direct effectiveness of place-based policies, which ta
 </details>
 <p></p>
 
-## Working Papers
+### Working Papers
 
 <b>Levees: Infrastructure and Insurance as Adaptation to Flood Risk</b>
 * Draft Coming Soon
@@ -28,7 +28,7 @@ Numerous studies have documented large differences in the income- and education-
 * Revise and Resubmit, <i>Journal of Labor Economics</i>
 * with V. Joseph Hotz and Emily E. Wiemers
 
-## Works in Progress
+### Works in Progress
 
 <b>Rental Choice Sets in Low- and High-Opportunity Neighborhoods for Housing Choice Voucher Program Participants</b>
 * In Progress
@@ -40,7 +40,7 @@ Numerous studies have documented large differences in the income- and education-
 
 
 
-## Publications
+### Publications
 
 <b>Gender Differences in the Benefits of an Influential Early Childhood Program</b>
 <details>
