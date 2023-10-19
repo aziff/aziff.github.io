@@ -4,8 +4,12 @@ title: Teaching
 permalink: /teaching/
 ---
 
-[Teaching Statement](https://www.dropbox.com/scl/fi/wudpph2wvd899x0qzkhly/AnnaZiff_TeachingStatement.pdf?rlkey=9dr7o4ngwtfz8iq8jr84s4ea8&dl=0){:target="_blank"}
+# Teaching Statement
 
+[Download teaching statement](https://www.dropbox.com/scl/fi/wudpph2wvd899x0qzkhly/AnnaZiff_TeachingStatement.pdf?rlkey=9dr7o4ngwtfz8iq8jr84s4ea8&dl=0){:target="_blank"}
+
+
+# Teaching Experience and Evaluations
 
 **R Workflow for Economists**
 
