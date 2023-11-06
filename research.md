@@ -11,18 +11,26 @@ permalink: /research/
 # Job Market Paper
 
 <b>Beyond the Local Impacts of Place-Based Policies: Spillovers through Latent Housing Markets</b>
-* <a href="https://www.dropbox.com/scl/fi/kmedd02fl0e9s2ad646wx/AnnaZiff_MainPaper.pdf?rlkey=0l8jxnv6wf51ir7828k0q9v4t&dl=0" target="_blank">Draft</a>
 <details>
 <summary>Abstract</summary>
 Many analyses of place-based policies, which target geographic areas often to foster economic development, focus on their direct effects. Responses of households and firms that propagate within similar markets (e.g., housing markets) are also important for studying overall effectiveness. I propose an approach to estimate non-spatial spillover effects on non-targeted areas in the same markets as the targeted areas. My approach can be adapted to other settings with possible non-spatial spillovers. I illustrate the approach and discuss the economic framework using a widespread, place-based policy, Tax Increment Financing (TIF). To characterize housing markets, I construct a network of connected neighborhoods using data on household moves and define markets based on a model of community detection from network theory. With this data-driven characterization, I estimate the "market" spillover effects to non-targeted areas within the same housing market. TIF is locally effective at increasing property values within the targeted area. However, the market spillover effects indicate a negative effect on non-targeted areas within the same housing markets. This result implies that the policy relocates investment from non-targeted to targeted areas. I analyze outcomes related to household and firm characteristics and find support for the relocation mechanism. I combine the direct and spillover effects to calculate a back-of-the-envelope estimate of an overall effect close to zero, with the policy redistributing investment towards relatively disadvantaged targeted areas within housing markets. 
 </details>
 <p></p>
 
+* <a href="https://www.dropbox.com/scl/fi/kmedd02fl0e9s2ad646wx/AnnaZiff_MainPaper.pdf?rlkey=0l8jxnv6wf51ir7828k0q9v4t&dl=0" target="_blank">Draft</a>
+
 # Working Papers
 
 <b>Levees: Infrastructure and Insurance as Adaptation to Flood Risk</b>
-* with Mythili Vinnakota
 
+<details>
+<summary>Abstract</summary>
+This paper considers the interaction of two key flood policy instruments commonly used in the US, levee infrastructure and flood insurance, and measures how much flood insurance take-up changes in response to levee provision. Levees are critical infrastructure that reduce expected flood damage in a protected area. When a levee is constructed, and later accredited by the Federal Emergency Management Agency (FEMA), it alters inherent flood risk, flood insurance prices, and mandatory insurance purchase requirements. Using a novel panel dataset drawing from the National Levee Database, manually collected levee accreditation documentation, and FEMA flood insurance data, we leverage variation in levee construction and accreditation timing within a difference-in-differences design. Construction timing allows us to examine insurance take-up as a result of decreased flood risk, while take-up responses to accreditation reflect changes in insurance prices and mandatory purchase requirements. Our paper has three main findings: first, we find that levee construction decreases flood insurance by 20 percent. Second, we find that levee accreditation does not further change flood insurance take-up. Third, we find that decreases in flood insurance take-up due to levee construction decreases aggregate household insurance spending by $1.2 million per levee-mile, accounting for both extensive and intensive margin changes, and $5.7 million in averted expected damages per levee-mile, which, when compared to recent estimates of levee construction costs, corresponds to a break-even time horizon of 10 to 50 years.
+</details>
+<p></p>
+
+* with Mythili Vinnakota
+* <a href="https://www.dropbox.com/scl/fi/bmeg0i5bpnynhf9wz6teg/Mythili-Vinnakota_Job-Market-Paper.pdf?rlkey=7krqk728ima1em0of7xnadx5z&dl=0" target="_blank">Draft</a>
 
 <b>Association between the Volatility of Income and Life Expectancy in the U.S.</b>
 <details>

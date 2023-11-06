@@ -1,4 +1,4 @@
-I"C!<h1 id="research-statement">Research Statement</h1>
+I"[)<h1 id="research-statement">Research Statement</h1>
 
 <p><a href="https://www.dropbox.com/scl/fi/cpkgsn0q5n055d53jussa/AnnaZiff_ResearchStatement.pdf?rlkey=ylj2w4sumidwasqk08gfi3p7t&amp;dl=0" target="_blank">Download research statement</a></p>
 
@@ -7,15 +7,27 @@
 <p><b>Beyond the Local Impacts of Place-Based Policies: Spillovers through Latent Housing Markets</b></p>
 <details>
 <summary>Abstract</summary>
-It is common to study the direct effectiveness of place-based policies, which target geographic areas often to foster economic development. Ignoring indirect impacts due to responses of households and firms that propagate within similar markets (e.g., housing markets) may result in incorrect conclusions of the overall effectiveness. I propose an approach to estimate indirect effects on non-targeted areas that are in the same markets as the targeted areas. To determine latent market structure, I apply a network theory method to data on household movement. I illustrate the approach and discuss the economic framework using a widespread, place-based policy, Tax Increment Financing (TIF). I apply my approach to data on household moves to characterize the latent housing markets. With the data-driven characterization, I estimate the ``market'' spillover effects to non-targeted areas within the same housing market. TIF is locally effective at increasing property values within the targeted area. However, the market spillover effects estimated using my approach indicate a negative impact on non-targeted areas within the same housing markets. This implies that the policy relocates investment that otherwise would have occurred elsewhere. I analyze outcomes related to household and firm characteristics and find support for the relocation mechanism. I combine the direct and spillover effects to calculate a back-of-the-envelope estimate of an overall effect that is close to zero. I discuss the implications of these results for place-based redistribution.
+Many analyses of place-based policies, which target geographic areas often to foster economic development, focus on their direct effects. Responses of households and firms that propagate within similar markets (e.g., housing markets) are also important for studying overall effectiveness. I propose an approach to estimate non-spatial spillover effects on non-targeted areas in the same markets as the targeted areas. My approach can be adapted to other settings with possible non-spatial spillovers. I illustrate the approach and discuss the economic framework using a widespread, place-based policy, Tax Increment Financing (TIF). To characterize housing markets, I construct a network of connected neighborhoods using data on household moves and define markets based on a model of community detection from network theory. With this data-driven characterization, I estimate the "market" spillover effects to non-targeted areas within the same housing market. TIF is locally effective at increasing property values within the targeted area. However, the market spillover effects indicate a negative effect on non-targeted areas within the same housing markets. This result implies that the policy relocates investment from non-targeted to targeted areas. I analyze outcomes related to household and firm characteristics and find support for the relocation mechanism. I combine the direct and spillover effects to calculate a back-of-the-envelope estimate of an overall effect close to zero, with the policy redistributing investment towards relatively disadvantaged targeted areas within housing markets. 
 </details>
 <p></p>
+
+<ul>
+  <li><a href="https://www.dropbox.com/scl/fi/kmedd02fl0e9s2ad646wx/AnnaZiff_MainPaper.pdf?rlkey=0l8jxnv6wf51ir7828k0q9v4t&amp;dl=0" target="_blank">Draft</a></li>
+</ul>
 
 <h1 id="working-papers">Working Papers</h1>
 
 <p><b>Levees: Infrastructure and Insurance as Adaptation to Flood Risk</b></p>
+
+<details>
+<summary>Abstract</summary>
+This paper considers the interaction of two key flood policy instruments commonly used in the US, levee infrastructure and flood insurance, and measures how much flood insurance take-up changes in response to levee provision. Levees are critical infrastructure that reduce expected flood damage in a protected area. When a levee is constructed, and later accredited by the Federal Emergency Management Agency (FEMA), it alters inherent flood risk, flood insurance prices, and mandatory insurance purchase requirements. Using a novel panel dataset drawing from the National Levee Database, manually collected levee accreditation documentation, and FEMA flood insurance data, we leverage variation in levee construction and accreditation timing within a difference-in-differences design. Construction timing allows us to examine insurance take-up as a result of decreased flood risk, while take-up responses to accreditation reflect changes in insurance prices and mandatory purchase requirements. Our paper has three main findings: first, we find that levee construction decreases flood insurance by 20 percent. Second, we find that levee accreditation does not further change flood insurance take-up. Third, we find that decreases in flood insurance take-up due to levee construction decreases aggregate household insurance spending by $1.2 million per levee-mile, accounting for both extensive and intensive margin changes, and $5.7 million in averted expected damages per levee-mile, which, when compared to recent estimates of levee construction costs, corresponds to a break-even time horizon of 10 to 50 years.
+</details>
+<p></p>
+
 <ul>
   <li>with Mythili Vinnakota</li>
+  <li><a href="https://www.dropbox.com/scl/fi/bmeg0i5bpnynhf9wz6teg/Mythili-Vinnakota_Job-Market-Paper.pdf?rlkey=7krqk728ima1em0of7xnadx5z&amp;dl=0" target="_blank">Draft</a></li>
 </ul>
 
 <p><b>Association between the Volatility of Income and Life Expectancy in the U.S.</b></p>
