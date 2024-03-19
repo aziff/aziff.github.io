@@ -4,11 +4,8 @@ title: Research
 permalink: /research/
 ---
 
-# Research Statement
 
-<a href="https://www.dropbox.com/scl/fi/cpkgsn0q5n055d53jussa/AnnaZiff_ResearchStatement.pdf?rlkey=ylj2w4sumidwasqk08gfi3p7t&dl=0" target="_blank">Download research statement</a>
-
-# Job Market Paper
+## Working Papers
 
 <b>Beyond the Local Impacts of Place-Based Policies: Spillovers through Latent Housing Markets</b>
 <details>
@@ -18,8 +15,6 @@ Many analyses of place-based policies, which target geographic areas often to fo
 <p></p>
 
 * <a href="https://www.dropbox.com/scl/fi/kmedd02fl0e9s2ad646wx/AnnaZiff_MainPaper.pdf?rlkey=0l8jxnv6wf51ir7828k0q9v4t&dl=0" target="_blank">Draft</a>
-
-# Working Papers
 
 <b>Levees: Infrastructure and Insurance as Adaptation to Flood Risk</b>
 
@@ -38,22 +33,12 @@ This paper considers the interaction of two key flood policy instruments commonl
 Numerous studies have documented large differences in the income- and education-mortality gradients across geographic areas and have emphasized the role of health behaviors, policy, and overall affluence, but less is known about the role of the volatility of household income in affecting life expectancy, especially among households in the bottom part of the income distribution. In this paper, we examine the relationship between the volatility of income and the life expectancy of adults in the U.S., focusing on the first two decades of the twenty-first century. We use a commercial source of data on all households in the U.S., InfoUSA, to construct longitudinal data on households residing in mid-sized commuting zones of the U.S. and measure household income volatility across the income distribution and across counties. We link data on volatility with estimates of life expectancy at the county level and by income quartiles to analyze the volatility - life expectancy relationship while including controls for demographics, economic conditions, and policy generosity. We find that house- hold income volatility is negatively correlated with life expectancy only at the bottom of the household income distribution. This relationship is driven by negative associations between life expectancy and household income volatility for non-Hispanic whites. Though we cannot extrapolate our conclusions based on place-based differences to individuals, we link our findings with a broader literature showing a relationship between volatile earnings and health as well as the literature on place-based differences in mortality.
 </details>
 <p></p>
-* Revise and Resubmit, <i>Journal of Labor Economics</i>
+* Conditionally Accepted, <i>Journal of Labor Economics</i>
 * with V. Joseph Hotz and Emily E. Wiemers
 
-# Works in Progress
+___
 
-<b>Rental Choice Sets in Low- and High-Opportunity Neighborhoods for Housing Choice Voucher Program Participants</b>
-* In Progress
-* with JoonYup Park
-
-<b>Unifying Panel Data Models for Unobserved Heterogeneity</b>
-* In Progress
-* with Joshua Shea
-
-
-
-# Publications
+## Publications
 
 <b>Gender Differences in the Benefits of an Influential Early Childhood Program</b>
 <details>
@@ -86,5 +71,15 @@ We evaluate the Reggio Approach using non-experimental data on individuals from 
 * with Pietro Biroli, Daniela Del Boca, James J. Heckman, Lynne Pettler Heckman, Yu Kyung Koh, Sylvi Kuperman, Sidharth Moktan, Chiara D. Pronzato
 * [Access paper](https://www.sciencedirect.com/science/article/pii/S1090944317301643)
 
+___
 
+## Works in Progress
+
+<b>Rental Choice Sets in Low- and High-Opportunity Neighborhoods for Housing Choice Voucher Program Participants</b>
+* In Progress
+* with JoonYup Park
+
+<b>Unifying Panel Data Models for Unobserved Heterogeneity</b>
+* In Progress
+* with Joshua Shea
 
