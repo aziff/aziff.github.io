@@ -38,6 +38,19 @@ Numerous studies have documented large differences in the income- and education-
 
 ___
 
+## Works in Progress
+
+<b>Rental Choice Sets in Low- and High-Opportunity Neighborhoods for Housing Choice Voucher Program Participants</b>
+* In Progress
+* with JoonYup Park
+
+<b>Unifying Panel Data Models for Unobserved Heterogeneity</b>
+* In Progress
+* with Joshua Shea
+
+
+___
+
 ## Publications
 
 <b>Gender Differences in the Benefits of an Influential Early Childhood Program</b>
@@ -71,15 +84,4 @@ We evaluate the Reggio Approach using non-experimental data on individuals from 
 * with Pietro Biroli, Daniela Del Boca, James J. Heckman, Lynne Pettler Heckman, Yu Kyung Koh, Sylvi Kuperman, Sidharth Moktan, Chiara D. Pronzato
 * [Access paper](https://www.sciencedirect.com/science/article/pii/S1090944317301643)
 
-___
-
-## Works in Progress
-
-<b>Rental Choice Sets in Low- and High-Opportunity Neighborhoods for Housing Choice Voucher Program Participants</b>
-* In Progress
-* with JoonYup Park
-
-<b>Unifying Panel Data Models for Unobserved Heterogeneity</b>
-* In Progress
-* with Joshua Shea
 
