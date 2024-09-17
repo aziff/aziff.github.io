@@ -25,14 +25,7 @@ This paper considers the interaction of two key flood policy instruments commonl
 * with Mythili Vinnakota
 
 
-<b>Association between the Volatility of Income and Life Expectancy in the U.S.</b>
-<details>
-<summary>Abstract</summary>
-Numerous studies have documented large differences in the income- and education-mortality gradients across geographic areas and have emphasized the role of health behaviors, policy, and overall affluence, but less is known about the role of the volatility of household income in affecting life expectancy, especially among households in the bottom part of the income distribution. In this paper, we examine the relationship between the volatility of income and the life expectancy of adults in the U.S., focusing on the first two decades of the twenty-first century. We use a commercial source of data on all households in the U.S., InfoUSA, to construct longitudinal data on households residing in mid-sized commuting zones of the U.S. and measure household income volatility across the income distribution and across counties. We link data on volatility with estimates of life expectancy at the county level and by income quartiles to analyze the volatility - life expectancy relationship while including controls for demographics, economic conditions, and policy generosity. We find that house- hold income volatility is negatively correlated with life expectancy only at the bottom of the household income distribution. This relationship is driven by negative associations between life expectancy and household income volatility for non-Hispanic whites. Though we cannot extrapolate our conclusions based on place-based differences to individuals, we link our findings with a broader literature showing a relationship between volatile earnings and health as well as the literature on place-based differences in mortality.
-</details>
-<p></p>
-* Forthcoming, <i>Journal of Labor Economics</i>
-* with V. Joseph Hotz and Emily E. Wiemers
+
 
 ___
 
@@ -50,6 +43,15 @@ ___
 ___
 
 ## Publications
+
+<b>Association between the Volatility of Income and Life Expectancy in the U.S.</b>
+<details>
+<summary>Abstract</summary>
+Numerous studies have documented large differences in the income- and education-mortality gradients across geographic areas and have emphasized the role of health behaviors, policy, and overall affluence, but less is known about the role of the volatility of household income in affecting life expectancy, especially among households in the bottom part of the income distribution. In this paper, we examine the relationship between the volatility of income and the life expectancy of adults in the U.S., focusing on the first two decades of the twenty-first century. We use a commercial source of data on all households in the U.S., InfoUSA, to construct longitudinal data on households residing in mid-sized commuting zones of the U.S. and measure household income volatility across the income distribution and across counties. We link data on volatility with estimates of life expectancy at the county level and by income quartiles to analyze the volatility - life expectancy relationship while including controls for demographics, economic conditions, and policy generosity. We find that house- hold income volatility is negatively correlated with life expectancy only at the bottom of the household income distribution. This relationship is driven by negative associations between life expectancy and household income volatility for non-Hispanic whites. Though we cannot extrapolate our conclusions based on place-based differences to individuals, we link our findings with a broader literature showing a relationship between volatile earnings and health as well as the literature on place-based differences in mortality.
+</details>
+<p></p>
+* Forthcoming, <i>Journal of Labor Economics</i>
+* with V. Joseph Hotz and Emily E. Wiemers
 
 <b>Gender Differences in the Benefits of an Influential Early Childhood Program</b>
 <details>
