@@ -1,11 +1,16 @@
-I"Ú&<h2 id="working-papers">Working Papers</h2>
+I"|%<h2 id="working-papers">Working Papers</h2>
 
 <p><b>Beyond the Local Impacts of Place-Based Policies: Spillovers through Latent Housing Markets</b></p>
 <details>
 <summary>Abstract</summary>
-Many analyses of place-based policies, which target geographic areas often to foster economic development, focus on their direct effects. Responses of households and firms that propagate within similar markets (e.g., housing markets) are also important for studying overall effectiveness. I propose an approach to estimate non-spatial spillover effects on non-targeted areas in the same markets as the targeted areas. My approach can be adapted to other settings with possible non-spatial spillovers. I illustrate the approach and discuss the economic framework using a widespread, place-based policy, Tax Increment Financing (TIF). To characterize housing markets, I construct a network of connected neighborhoods using data on household moves and define markets based on a model of community detection from network theory. With this data-driven characterization, I estimate the "market" spillover effects to non-targeted areas within the same housing market. TIF is locally effective at increasing property values within the targeted area. However, the market spillover effects indicate a negative effect on non-targeted areas within the same housing markets. This result implies that the policy relocates investment from non-targeted to targeted areas. I analyze outcomes related to household and firm characteristics and find support for the relocation mechanism. I combine the direct and spillover effects to calculate a back-of-the-envelope estimate of an overall effect close to zero, with the policy redistributing investment towards relatively disadvantaged targeted areas within housing markets. 
+Place-based policies target geographic areas, aiming to generate localized investment for economic development. Do place-based policies create new economic activity or do they reallocate it? Empirically evaluating this question is challenging because of the difficulty in ascertaining areas that might experience spillovers. I develop a data-driven approach to characterize the areas most likely to be affected when others receive targeted investment. Tax Increment Financing in Chicago provides a setting to consider whether place-based policies revitalizing neighborhoods are zero-sum. I find that while the effect of Tax Increment Financing on property values in targeted areas is positive, the spillover effect on property values in non-targeted areas is negative. Business activity shifts in a manner consistent with Tax Increment Financing subsidizing development that would have occurred elsewhere. I combine the direct and spillover effects to calculate a back-of-the-envelope estimate of an overall effect close to zero. Due to the targeting of the policy, it results in a limited amount of redistribution towards relatively disadvantaged targeted areas.
 </details>
 <p></p>
+
+<ul>
+  <li>under review</li>
+  <li><a href="https://tamucs-my.sharepoint.com/:b:/g/personal/aziff_tamu_edu/ETelIirfCnlJp7G2zh_9KDIBvk4vqL2fTzNL-OxtlFGTOQ?e=lTpfs5">Access draft</a></li>
+</ul>
 
 <p><b>Levees: Infrastructure and Insurance as Adaptation to Flood Risk</b></p>
 
@@ -17,6 +22,7 @@ This paper considers the interaction of two key flood policy instruments commonl
 
 <ul>
   <li>with Mythili Vinnakota</li>
+  <li>new draft coming soon</li>
 </ul>
 
 <hr />
@@ -27,12 +33,6 @@ This paper considers the interaction of two key flood policy instruments commonl
 <ul>
   <li>In Progress</li>
   <li>with JoonYup Park</li>
-</ul>
-
-<p><b>Unifying Panel Data Models for Unobserved Heterogeneity</b></p>
-<ul>
-  <li>In Progress</li>
-  <li>with Joshua Shea</li>
 </ul>
 
 <hr />
