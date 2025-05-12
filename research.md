@@ -14,20 +14,21 @@ Place-based policies target geographic areas, aiming to generate localized inves
 </details>
 <p></p>
 
-* under review
-* [Access draft](https://tamucs-my.sharepoint.com/:b:/g/personal/aziff_tamu_edu/ETelIirfCnlJp7G2zh_9KDIBvk4vqL2fTzNL-OxtlFGTOQ?e=lTpfs5)
+
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5182368" target="_blank">Access draft</a>
 
 
-<b>Levees: Infrastructure and Insurance as Adaptation to Flood Risk</b>
+<b>Levees and the Crowd-Out of Flood Insurance Demand</b>
 
 <details>
 <summary>Abstract</summary>
-This paper considers the interaction of two key flood policy instruments commonly used in the US, levee infrastructure and flood insurance, and measures how much flood insurance take-up changes in response to levee provision. Levees are critical infrastructure that reduce expected flood damage in a protected area. When a levee is constructed, and later accredited by the Federal Emergency Management Agency (FEMA), it alters inherent flood risk, flood insurance prices, and mandatory insurance purchase requirements. Using a novel panel dataset drawing from the National Levee Database, manually collected levee accreditation documentation, and FEMA flood insurance data, we leverage variation in levee construction and accreditation timing within a difference-in-differences design. Construction timing allows us to examine insurance take-up as a result of decreased flood risk, while take-up responses to accreditation reflect changes in insurance prices and mandatory purchase requirements. Our paper has three main findings: first, we find that levee construction decreases flood insurance by 20 percent. Second, we find that levee accreditation does not further change flood insurance take-up. Third, we find that decreases in flood insurance take-up due to levee construction decreases aggregate household insurance spending by $1.2 million per levee-mile, accounting for both extensive and intensive margin changes, and $5.7 million in averted expected damages per levee-mile, which, when compared to recent estimates of levee construction costs, corresponds to a break-even time horizon of 10 to 50 years.
+Public investments in disaster mitigation may crowd out demand for insurance. We measure the extent of substitution between flood-mitigating infrastructure and public flood insurance. Using a novel dataset of U.S. levee provision, we find that levee construction lowers flood risk and reduces insurance take-up by 61%, removing $300 million in coverage. Levee accreditation, which reduces premiums and lifts mandatory purchase requirements, offsets part of this decline, recovering $160 million in coverage. The positive effect of accreditation indicates that reducing premiums increases insurance take-up, despite the counteracting influence of mandate removal.
 </details>
 <p></p>
 
-* with Mythili Vinnakota
-* new draft coming soon
+* Under review
+* With Mythili Vinnakota
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5236211" target="_blank">Access draft</a>
 
 
 ___
@@ -35,8 +36,8 @@ ___
 ## Works in Progress
 
 <b>Rental Choice Sets in Low- and High-Opportunity Neighborhoods for Housing Choice Voucher Program Participants</b>
-* In Progress
-* with JoonYup Park
+* In progress
+* With JoonYup Park
 
 
 ___
@@ -46,11 +47,12 @@ ___
 <b>Association between the Volatility of Income and Life Expectancy in the U.S.</b>
 <details>
 <summary>Abstract</summary>
-Numerous studies have documented large differences in the income- and education-mortality gradients across geographic areas and have emphasized the role of health behaviors, policy, and overall affluence, but less is known about the role of the volatility of household income in affecting life expectancy, especially among households in the bottom part of the income distribution. In this paper, we examine the relationship between the volatility of income and the life expectancy of adults in the U.S., focusing on the first two decades of the twenty-first century. We use a commercial source of data on all households in the U.S., InfoUSA, to construct longitudinal data on households residing in mid-sized commuting zones of the U.S. and measure household income volatility across the income distribution and across counties. We link data on volatility with estimates of life expectancy at the county level and by income quartiles to analyze the volatility - life expectancy relationship while including controls for demographics, economic conditions, and policy generosity. We find that house- hold income volatility is negatively correlated with life expectancy only at the bottom of the household income distribution. This relationship is driven by negative associations between life expectancy and household income volatility for non-Hispanic whites. Though we cannot extrapolate our conclusions based on place-based differences to individuals, we link our findings with a broader literature showing a relationship between volatile earnings and health as well as the literature on place-based differences in mortality.
+We examine the relationship between income volatility and life expectancy in mid-sized U.S. commuting zones between 2006 and 2014. We use a commercial dataset, InfoUSA, to measure income volatility which we link to estimates of life expectancy by gender, county, race, and income. We find that higher income volatility in a county is associated with lower life expectancy, but only at the bottom of the income distribution and primarily for non-Hispanic Whites. Though we cannot extrapolate our findings to individual-level relationships, we do link them to existing literatures on place-based differences in mortality and the relationship between volatility and health.
 </details>
 <p></p>
-* Forthcoming, <i>Journal of Labor Economics</i>
-* with V. Joseph Hotz and Emily E. Wiemers
+* Journal of Labor Economics (2025)
+* With V. Joseph Hotz and Emily E. Wiemers
+* <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12002405/" target="_blank">Access paper</a>
 
 <b>Gender Differences in the Benefits of an Influential Early Childhood Program</b>
 <details>
@@ -59,8 +61,9 @@ This paper studies the life-cycle impacts of a widely emulated high-quality, int
 </details>
 <p></p>
 * European Economic Review (2019)
-* with Jorge Luis García and James J. Heckman
-* [Access paper](https://www.sciencedirect.com/science/article/abs/pii/S0014292118300953)
+* With Jorge Luis García and James J. Heckman
+* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0014292118300953" target="_blank">Access paper</a>
+
 
 <b>Early Childhood Education and Crime</b>
 <details>
@@ -69,8 +72,8 @@ This article presents new evidence on the crime-reducing impacts of a high-quali
 </details>
 <p></p>
 * Infant Mental Health Journal (2018)
-* with Jorge Luis García and James J. Heckman
-* [Access paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/imhj.21759)
+* With Jorge Luis García and James J. Heckman
+* <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/imhj.21759" target="_blank">Access paper</a>
 
 
 <b>Evaluation of the Reggio Approach to Early Education</b>
@@ -80,7 +83,7 @@ We evaluate the Reggio Approach using non-experimental data on individuals from 
 </details>
 <p></p>
 * Research in Economics (2018)
-* with Pietro Biroli, Daniela Del Boca, James J. Heckman, Lynne Pettler Heckman, Yu Kyung Koh, Sylvi Kuperman, Sidharth Moktan, Chiara D. Pronzato
-* [Access paper](https://www.sciencedirect.com/science/article/pii/S1090944317301643)
+* With Pietro Biroli, Daniela Del Boca, James J. Heckman, Lynne Pettler Heckman, Yu Kyung Koh, Sylvi Kuperman, Sidharth Moktan, Chiara D. Pronzato
+* <a href="https://www.sciencedirect.com/science/article/pii/S1090944317301643" target="_blank">Access paper</a> 
 
 
