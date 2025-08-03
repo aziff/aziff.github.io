@@ -9,7 +9,7 @@ permalink: /teaching/
 * Texas A&M University (Spring 2024, Fall 2025)
 
 * [Notes](https://aziff.github.io/data-science-for-economic-and-social-issues.github.io/){:target="_blank"}
-
+test
 
 # ECON 603: Graduate Public Economics 
 
